@@ -1,6 +1,8 @@
 package com.example.codewars.TortoiseRacing;
 
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
 
 public class Tortoise {
     public static void main(String[] args) {
@@ -11,6 +13,9 @@ public class Tortoise {
         if(v2 <= v1){
             return null;
         }
+        List<Object> A = new ArrayList();
+        A.add("Hello");
+        A.add(12);
 
         double l1 = g;
         double l2 = 0;
