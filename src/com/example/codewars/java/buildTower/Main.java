@@ -1,4 +1,4 @@
-package com.example.codewars.buildTower;
+package com.example.codewars.java.buildTower;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.example.codewars.PersistentBugger;
+package com.example.codewars.java.PersistentBugger;
 
 class Persist {
     public static void main(String[] args) {

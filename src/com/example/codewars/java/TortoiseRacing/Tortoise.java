@@ -1,7 +1,6 @@
-package com.example.codewars.TortoiseRacing;
+package com.example.codewars.java.TortoiseRacing;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public class Tortoise {

@@ -1,4 +1,4 @@
-package com.example.codewars.HumanReadableTime;
+package com.example.codewars.java.HumanReadableTime;
 
 public class HumanReadableTime {
 

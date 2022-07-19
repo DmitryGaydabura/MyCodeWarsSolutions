@@ -1,4 +1,4 @@
-package com.example.codewars.ValidParentheses;
+package com.example.codewars.java.ValidParentheses;
 
 public class Solution {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.example.codewars.rectangleRotation;
+package com.example.codewars.java.rectangleRotation;
 
 public class Solution {
     public static void main(String[] args) {
