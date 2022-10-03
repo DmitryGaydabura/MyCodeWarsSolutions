@@ -13,7 +13,7 @@ Java:
 * You Can't Code Under Pressure #1 (8 kyu)✅
 * Valid Parentheses (5 kyu)✅
 * Simple Pig Latin (5 kyu)✅
-
+* Encrypt this! (6 kyu)✅
 
 Kotlin:
 * Is he gonna survive? (8 kyu)✅
