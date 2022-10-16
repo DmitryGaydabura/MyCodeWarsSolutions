@@ -27,4 +27,5 @@
 
 
 ## Scala:
-* firstNonConsecutive (8 kyu)✅
+* FirstNonConsecutive (8 kyu)✅
+* Multiplication Table For Number (8 kyu)✅
