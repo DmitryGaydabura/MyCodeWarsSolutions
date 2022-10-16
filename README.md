@@ -2,7 +2,7 @@
 [![](https://www.codewars.com/users/Dimitrius1011/badges/large)](https://www.codewars.com/users/Dimitrius1011/badges/large)
 
 # Solved Kata:
-Java:
+## Java:
 * Traffic Lights - one car (6 kyu)✅
 * Count the smiley faces! (6 kyu)✅
 * Who likes it? (6 kyu)✅
@@ -16,7 +16,7 @@ Java:
 * Find the odd int (6 kyu)✅
 * Encrypt this! (6 kyu)✅
 
-Kotlin:
+## Kotlin:
 * Is he gonna survive? (8 kyu)✅
 * Simple multiplication (8 kyu)✅
 * Remove First and Last Character (8 kyu)✅
@@ -24,3 +24,7 @@ Kotlin:
 * Twice as old (8 kyu)✅
 * Get ascii value of character (8 kyu)✅
 * Enumerable Magic - Does My List Include This? (8 kyu)✅
+
+
+## Scala:
+* firstNonConsecutive (8 kyu)✅
