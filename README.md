@@ -30,3 +30,4 @@
 * FirstNonConsecutive (8 kyu)✅
 * Multiplication Table For Number (8 kyu)✅
 * Counting Sheep (8 kyu)✅
+* SumOfNumbers (7 kyu)✅
