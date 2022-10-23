@@ -15,6 +15,8 @@
 * Simple Pig Latin (5 kyu)✅
 * Find the odd int (6 kyu)✅
 * Encrypt this! (6 kyu)✅
+* Stop gninnips my sdrow! (6 kyu)✅
+
 
 ## Kotlin:
 * Is he gonna survive? (8 kyu)✅
